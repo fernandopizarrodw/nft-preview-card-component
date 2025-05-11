@@ -8,7 +8,7 @@ A small card component with overlay hover effect, built using Flexbox and `posit
 
 ### Screenshot
 
-![Desktop Screenshot](./screenshot.jpg)
+![Desktop Screenshot](./images/screenshot-desktop.jpg)
 
 ### Links
 
